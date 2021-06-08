@@ -1,0 +1,46 @@
+imgui.NewLine()
+imgui.TextColoredRGB("{ff0000}Последнее редактирование: {585858}01.03.2021 ")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{191970}1.1. {585858}Запрещено свободное общение в OOC чате с {191970}10:00 {585858}до {191970}22:00{585858}.")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{585858}Наказание для сотрудника: {FF0000}Блокирование рации на 20 минут (/dmute)")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{585858}Примечание: Фраза offtop off недопустима, каждый должен понести наказание за нарушение.")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{191970}1.2. {585858}Запрещены объявления о покупке/продаже имущества.")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{585858}Наказание для сотрудника: {FF0000}Блокирование рации на 30 минут (/dmute)")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{585858}Наказание для сотрудника: {FF0000}Блокирование рации на 30 минут (/dmute)")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{191970}1.3. {585858}Запрещено оскорбления сотрудников департамента (не зависимо в OOC или IC).")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{585858}Наказание для сотрудника: {FF0000}Блокирование рации на 30 минут (/dmute) / Увольнение")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{191970}1.4. {585858}Запрещено употребление ненормативной лексики на рации департамента.")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{585858}Наказание для сотрудника: {FF0000}Блокирование рации на 20 минут (/dmute)")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{191970}1.5. {585858}Запрещены OOC приветствия на рации департамента.")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{585858}Наказание для сотрудника: {FF0000}Блокирование рации на 20 минут (/dmute)")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{191970}1.6. {585858}Запрещено использовать рацию департамента первым должностям в гос.структурах.")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{585858}Наказание для сотрудника: {FF0000}Блокирование рации на 30 минут (/dmute)")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{191970}1.7. {585858}Запрещено снимать мут, если он был выдан по правилам, даже если человек извинился или по амнистии.")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{585858}Наказание: {FF0000}Если снял сотрудник - На усмотрение лидера / Увольнение | Eсли снял лидер - REPROOF / LEADVIG")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{191970}1.8. {585858}Запрещён намеренный откат.")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{585858}Наказание для сотрудника: {FF0000}Блокирование рации на 30 минут (/dmute)")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{191970}1.9. {585858}Запрещено общение не в рабочей стилистике.")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{585858}Наказание для сотрудника: {FF0000}Блокирование рации на 20 минут (/dmute)")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{191970}1.10. {585858}CNN запрещено общаться на волне департамента (обращаться к сотрудникам CNN также запрещено).")
+imgui.CreatePaddingX(20);
+imgui.TextColoredRGB("{585858}Наказание для сотрудника: {FF0000}Блокирование рации на 20 минут (/dmute)")
